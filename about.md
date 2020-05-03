@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Liên hệ
 ---
 
 <p class="message">
